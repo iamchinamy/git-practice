@@ -1,1 +1,1 @@
-test hello, this is Chinami.
+test hello, this is Chinami, talking to you.
