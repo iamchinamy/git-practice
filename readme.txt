@@ -1,1 +1,1 @@
-test hello, this is Chinami, talking to you. I am trying to upload to remote repository. Even it is not easy. i will try again and again.
+test hello, this is Chinami, talking to you. I am trying to upload to remote repository. Even it is not easy. i will try again and again hard
